@@ -1,0 +1,4 @@
+GET - https://rohith-todos.free.beeceptor.com/todos , 
+POST - https://rohith-todos.free.beeceptor.com/todo , 
+PUT - https://rohith-todos.free.beeceptor.com/todo/1 ,
+DELETE - https://rohith-todos.free.beeceptor.com/todos
